@@ -1,0 +1,17 @@
+/** Override Bootstrap */
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #707070;
+}
+
+/* 一般有的沒的 */
+.hide_me {
+    display: none;
+}
+
+#score_form_error {
+    width: 80%;
+}
