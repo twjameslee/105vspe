@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="vspe@nas.chsc.tw">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="vspe@nas.chsc.tw" uploadOnCheckin="bf80a861-5085-4ce1-9c0b-7754cfe46ca0">
     <serverData>
       <paths name="vspe@nas.chsc.tw">
         <serverdata>
@@ -10,6 +10,7 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="vspe@nas.chsc.tw" />
     <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
   </component>
 </project>
